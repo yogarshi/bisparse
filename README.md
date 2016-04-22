@@ -18,7 +18,9 @@ Run 'sh fasta\_biling.sh' with the following parameters (in order):
 
 Example files are available [here](http://www.umiacs.umd.edu/~yogarshi/data/bisparse/sample_data.tar.gz).
 
-There are other hyperparameters in the script which you should consider adjusting.
+The output of the above script will be two vector files, one for each langauge. These new vectors will be sparse and interpretable, with the dimensions aligned across langauges!
+
+NB :There are other hyperparameters in the script which you should consider adjusting.
 
 ## Data
 
