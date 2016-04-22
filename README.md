@@ -35,11 +35,11 @@ This folder contains Some other useful code :
 
 If you use this code or the associated dataset, please cite the paper!
 
-@InProceedings{VyasCarpuat2015,
-        Title = {Sparse Bilingual Word Representations for Cross-lingual Lexical Entailment},
-        Booktitle = {Proceedings of NAACL},
-        Author = {Vyas, Yogarshi and Carpuat, Marine},
-        Year = {2016},
-        Location = {San Diego, United States of America}
-    }
+	@InProceedings{VyasCarpuat2015,
+        	Title = {Sparse Bilingual Word Representations for Cross-lingual Lexical Entailment},
+        	Booktitle = {Proceedings of NAACL},
+        	Author = {Vyas, Yogarshi and Carpuat, Marine},
+        	Year = {2016},
+        	Location = {San Diego, United States of America}
+   	}
 
