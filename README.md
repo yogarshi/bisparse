@@ -29,7 +29,7 @@ The data folder contains
 
 ## Utils
 
-This folder contains Some other useful code :
+This folder contains some other useful code :
 
 * top\_dims.py - Interpret the dimensions given a (sparse) vector file
 
